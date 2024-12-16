@@ -1,0 +1,20 @@
+<dict>
+    <key>PayloadDescription</key>
+    <string>Defer Software Update 90 days</string>
+    <key>PayloadDisplayName</key>
+    <string>Software Update</string>
+    <key>PayloadIdentifier</key>
+    <string>ProfileCreator.F604B13B-3037-4B8E-8EE6-8B8AD10B1DDC.com.apple.applicationaccess.ACF227DB-23A2-411F-B662-EDE7BA174731</string>
+    <key>PayloadOrganization</key>
+    <string>Shell</string>
+    <key>PayloadType</key>
+    <string>com.apple.applicationaccess</string>
+    <key>PayloadUUID</key>
+    <string>F604B13B-3037-4B8E-8EE6-8B8AD10B1DDC</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>enforcedSoftwareUpdateDelay</key>
+    <integer>90</integer>
+    <key>forceDelayedSoftwareUpdates</key>
+    <true/>
+</dict>

@@ -1,0 +1,26 @@
+<dict>
+        <key>allowGenmoji</key>
+        <false/>
+        <key>allowImagePlayground</key>
+        <false/>
+        <key>allowImageWand</key>
+        <false/>
+        <key>allowPersonalizedHandwritingResults</key>
+        <false/>
+        <key>allowWritingTools</key>
+        <false/>
+        <key>PayloadDisplayName</key>
+        <string>Restrictions</string>
+        <key>PayloadDescription</key>
+        <string>iOS 18 Intelligence Restrictions</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.applicationaccess</string>
+        <key>PayloadUUID</key>
+        <string>a9f1b84e-7795-4f47-bcfa-e6334668bce1</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadIdentifier</key>
+        <string>8141u59a-423c-4f76-a3c6-f785d46eb6db.Restrictions</string>
+</dict>

@@ -1,8 +1,6 @@
 <dict>
       <key>allowMailSummary</key>
       <false/>
-      <key>allowExternalIntelligenceIntegrations</key>
-      <false/>
       <key>PayloadDisplayName</key>
       <string>Restrictions</string>
       <key>PayloadDescription</key>

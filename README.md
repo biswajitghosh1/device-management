@@ -1,1 +1,3 @@
-This is the list of MDM profiles which are deployed for devices.
+# README FILE
+
+This is the folder which stores information about profiles (only custom settings) and the scripts which are deployed for device management.

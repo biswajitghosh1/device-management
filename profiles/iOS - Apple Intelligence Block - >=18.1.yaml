@@ -1,14 +1,4 @@
 <dict>
-        <key>allowGenmoji</key>
-        <false/>
-        <key>allowImagePlayground</key>
-        <false/>
-        <key>allowImageWand</key>
-        <false/>
-        <key>allowPersonalizedHandwritingResults</key>
-        <false/>
-        <key>allowWritingTools</key>
-        <false/>
         <key>allowMailSummary</key>
         <false/>
         <key>allowCallRecording</key>
